@@ -5,9 +5,9 @@
 ## 1. Carga el dataset
 a. Carga el conjunto de datos proporcionado.
 
-b. Realiza una evaluación preliminar de los datos. Identifica el número de
+b. Realiza una evaluación preliminar de los datos. Identifica el número de características, sus tipos de datos y verifica la existencia de valores faltantes.
 
-características, sus tipos de datos y verifica la existencia de valores faltantes.
+![Descripcion Dataset](https://github.com/leticiatituana/EDA-Bank-Data/blob/main/outputs/images/Descripcion_datos.png)
 
 ## 2. Limpieza de Datos:
 a. Identifica al menos un mecanismo para imputar datos y justifícalo
