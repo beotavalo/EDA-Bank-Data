@@ -1,4 +1,4 @@
-# Exploración y segmentación de clientes
+9# Exploración y segmentación de clientes
 
 ## Resumen Ejecutivo
 
@@ -62,6 +62,6 @@ Link de notebook de Google Colab. Deben de estar todos los pasos tomados durante
 
 ## 2. Presentación
 
-##References:
+## References:
 
 - Exploratory Data Analysis with Python
