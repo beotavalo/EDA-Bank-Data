@@ -1,4 +1,4 @@
-9# Exploración y segmentación de clientes
+# Exploración y segmentación de clientes
 
 ## Resumen Ejecutivo
 
